@@ -19,11 +19,11 @@ Once the original dataset was downloaded, number of years worked ("YearsWorked")
 Mean and standard deviation of the independent variables ("YearsWorked", "AnnualSalary", "GrossPay", "DiffSalary") using the AVERAGE and STDEV functions. The numbers in "YearsWorked", "AnnualSalary", "GrossPay", "Diff Salary" were normalized using the STANDARDIZE function and put into the "z YearsWorked", "z AnnualSalary", "z GrossPay", "z Diff Salary" columns. An anchor table was then created using the VLOOKUP function, which contained Anchor Number, "EmployeeNum", "JobTitle", "z YearsWorked", "z AnnualSalary", "z GrossPay", "z Diff Salary". The SUMXMY2 function was used to calculate the distance squared between the first, second, third, fourth, and fifth points. Minimum distance squared and sum of minimum distance squared were calculated for each row using the MIN and SUM functions. The MATCH function was then used to calculate which row of z scores is associated with which anchor. Finally, Excel Solver was used to evaluate optimal clusters on the anchor table based on the minimum distance to each of the cluster nodes.
 
 # Data Answer
-![alt text](
+![alt text](https://github.com/achow6/clustering-baltimore-city-salaries/blob/main/Scatter%20Plot.png)
 
 This is a scatterplot comparison between gross pay and years worked. As an initial investigation for this cluster analysis, we can see that there are approximately five clusters, so a five-cluster analysis was conducted on the data. 
 
-![alt text](
+![alt text](https://github.com/achow6/clustering-baltimore-city-salaries/blob/main/Clusters.png)
 
 This is the Solver output for the five-cluster analysis. The first cluster is characterized by employees who have not worked under the government for very long and have a much higher (above average) contract salary than actual (below average) income. There is a large gap between their contract and actual salaries.
 The second cluster is represented by employees who have worked the least amount of time under the government and have a lower (below average) contract and (way below average) actual salary. There is a large gap between their contract and actual salaries, but it is smaller than the first cluster.
