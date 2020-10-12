@@ -26,9 +26,13 @@ This is a scatterplot comparison between gross pay and years worked. As an initi
 ![alt text](https://github.com/achow6/clustering-baltimore-city-salaries/blob/main/Clusters.png)
 
 This is the Solver output for the five-cluster analysis. The first cluster is characterized by employees who have not worked under the government for very long and have a much higher (above average) contract salary than actual (below average) income. There is a large gap between their contract and actual salaries.
+
 The second cluster is represented by employees who have worked the least amount of time under the government and have a lower (below average) contract and (way below average) actual salary. There is a large gap between their contract and actual salaries, but it is smaller than the first cluster.
+
 The third cluster is represented by employees who have worked under the government for a long time and have a high (above average) contract and (above average) actual income. Their actual income is slightly greater than their contract salary.
+
 The fourth cluster is characterized by employees who have not worked under the government for very long and have above average contract and annual incomes. There is a large gap between their contract and actual salaries; this group actually earns much more than their contract dictates.
+
 The fifth cluster is represented by employees who have worked under the government for the longest and have high contract and actual salaries. They also earn more than their contract dictates, but the gap is less than the one seen in the fourth cluster.
 
 # Business Answer
