@@ -39,15 +39,15 @@ During the data analysis process, scatterplots were created (i.e. comparing Year
 
 This is the Solver output for the five-cluster analysis. 
 
-The first cluster is the smallest (748 individuals) and is characterized by employees who have not worked under the government for very long and have a much higher (above average) contract salary than actual (below average) income. There is a large gap between their contract and actual salaries.
+The first cluster is the smallest (748 individuals) and is characterized by employees who have not worked under the government for very long and have a much higher (above average) contract salary than actual (below average) income. There is a large gap between their contract and actual salaries. This group is largely made up of community health nurses.
 
-The second cluster is represented by 2,961 employees who have worked the least amount of time under the government and have a lower (below average) contract and (way below average) actual salary. There is a large gap between their contract and actual salaries, but it is smaller than the first cluster.
+The second cluster is represented by 2,961 employees who have worked the least amount of time under the government and have a lower (below average) contract and (way below average) actual salary. There is a large gap between their contract and actual salaries, but it is smaller than the first cluster. This group is largely made up by school health aides and short-term community health nurses (employed for 10 months).
 
-The third cluster is represented by 2,993 employees who have worked under the government for a long time and have a high (above average) contract and (above average) actual income. Their actual income is slightly greater than their contract salary.
+The third cluster is represented by 2,993 employees who have worked under the government for a long time and have a high (above average) contract and (above average) actual income. Their actual income is slightly greater than their contract salary. This group is largely made up of community health nurse supervisors, health program administrators, and environmental health supervisors.
 
-The fourth cluster is characterized by 1,078 employees who have not worked under the government for very long and have above average contract and annual incomes. There is a large gap between their contract and actual salaries; this group actually earns much more than their contract dictates.
+The fourth cluster is characterized by 1,078 employees who have not worked under the government for very long and have above average contract and annual incomes. There is a large gap between their contract and actual salaries; this group actually earns much more than their contract dictates. This group is largely made up of short-term school health aides (employed for 10 months)
 
-The fifth cluster is the largest (3001 individuals) and is represented by employees who have worked under the government for the longest and have high contract and actual salaries. They also earn more than their contract dictates, but the gap is less than the one seen in the fourth cluster.
+The fifth cluster is the largest (3001 individuals) and is represented by employees who have worked under the government for the longest and have high contract and actual salaries. They also earn more than their contract dictates, but the gap is less than the one seen in the fourth cluster. This group is largely made up of short-term school health aides (employed for 10 months), public health representatives & investigators, and community health educators.
 
 # Business Answer
 This cluster analysis suggests that there are five groups within Baltimore City's healthcare workers based on number of years worked, annual salary, gross pay, and difference between annual and gross salaries. The analysis suggests that in general, clusters of employees who work for a longer time receive a higher gross salary, whereas clusters of employees who work for a shorter time receive lower/average salaries. Additional research is needed to determine if there is an association between years worked and salary.
